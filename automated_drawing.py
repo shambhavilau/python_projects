@@ -1,6 +1,6 @@
 # Automated Drawing
 
-# Open up your paint or any other dwaing application 
+# Open up your paint or any other drwaing application 
 # Run the program and switch to your paint app
 # Wait for the response
 
