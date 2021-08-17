@@ -1,5 +1,10 @@
 # Automated Drawing
 
+# Open up your paint or any other dwaing application 
+# Run the program and switch to your paint app
+# Wait for the response
+
+
 # Import modules
 import time
 import pyautogui
