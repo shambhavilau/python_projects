@@ -1,5 +1,11 @@
 # Automated Text Messaging
 
+# Text file: message.txt
+# Open up you messaging app or notepad
+# Run the program
+# switch to the notepad and wait for response
+
+
 # Import modules
 import time
 import pyautogui
