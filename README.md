@@ -1,8 +1,8 @@
-# python_projects
+# Python Projects
 
 I will be putting up my python projects in here.
 
-Here is the list of common games which I tried to automate using python:
+Here is the list of some common games which I tried to automate using python:
   - Birthday Paradox
   - Heads Up Unicorn
   - Perfect Guess
