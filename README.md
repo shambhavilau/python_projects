@@ -4,7 +4,6 @@ I will be putting up my python projects in here.
 
 Here is the list of some common games which I tried to automate using python:
   - Birthday Paradox
-  - Heads Up Unicorn
   - Perfect Guess
   - Magic Square
   - Jumbled words
@@ -23,3 +22,4 @@ Current Projects:
   - Automated Text Bot
   - Automated Drawing Bot
   - Author Stylometry 
+  - GPS Tracking
